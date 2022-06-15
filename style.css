@@ -1,0 +1,27 @@
+.barra{
+    width: 25px;
+    height : 100px;
+    margin-right : 3px;
+    color : white;
+    display: inline-block;
+}
+svg{
+    border: 1px solid #ccc;
+}
+rect{
+    fill :rgb(39, 156, 39);
+    opacity: .8;
+}
+text{
+    font-family: Helvetica, Arial;
+    font-size: 10px;
+    text-anchor: middle;
+}
+.input-data input{
+    width: 100px;
+    height: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 5px;
+    margin-right: 5px;
+}
